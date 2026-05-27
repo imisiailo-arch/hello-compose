@@ -1,0 +1,25 @@
+# Gradle
+.gradle/
+build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Local SDK config
+local.properties
+
+# Keystore
+*.jks
+*.keystore
+
+# Kotlin / Java
+*.class
+
+# macOS
+.DS_Store
+
+# Android build folders
+captures/
+.externalNativeBuild/
+.cxx/
